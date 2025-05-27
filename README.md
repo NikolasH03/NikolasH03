@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nicolas Hurtado and I'm a videogame developer from Colombia</h2>
+<h2 align="left">Hi 👋! My name is Nicolas Hurtado and I'm a multimedia engineer and videogame developer from Colombia</h2>
 
 ###
 
